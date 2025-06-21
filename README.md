@@ -15,6 +15,16 @@ The goal of this project is to:
 
 ---
 
+### Data Model View
+![Data model](https://github.com/user-attachments/assets/91d66800-6203-476e-81fb-e80f98863cad)
+
+---
+### Dashboard View
+![Dashboard](https://github.com/user-attachments/assets/dcb9d5a9-8cc0-499e-b15f-bfa02c012459)
+
+
+---
+
 ### Key Insights from the Dashboard
 
 * **Total Customers Tracked:** 10,000
